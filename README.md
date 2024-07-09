@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Heetika Vaity</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heetika22" alt="heetika22" /></a> </p>
-
 - 🔭 I’m currently working on [OptiForecast(Inventory Management and Demand Forecasting System for Local stores))](https://github.com/Heetika22/OptiForecast-Project)
 
 <h3 align="left">Connect with me:</h3>

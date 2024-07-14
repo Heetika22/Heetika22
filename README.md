@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heetika Vaity</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer from India, currently pursuing Masters in Computer Applications</h3>
 
 - 🔭 I’m currently working on [OptiForecast(Inventory Management and Demand Forecasting System for Local stores))](https://github.com/Heetika22/OptiForecast-Project)
 

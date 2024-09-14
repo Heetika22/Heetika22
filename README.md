@@ -13,4 +13,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heetika22&show_icons=true&locale=en&layout=compact" alt="heetika22" /></p>
 
+![Heetika22's Stats](https://github-readme-stats.vercel.app/api?username=Heetika22&theme=radical&show_icons=true&hide_border=false&count_private=true)
+
+![Heetika22's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heetika22&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
 
